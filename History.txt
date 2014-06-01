@@ -1,0 +1,13 @@
+=== 0.0.2 2014-06-01
+
+* Transited from RubyForge.org to RubyGems.org.
+
+=== 0.0.2 2009-11-30
+
+* Support all OpenBox API.
+* The method of generating BoxRestClient instance was changed.
+  You must specify API key of your application.
+
+=== 0.0.1 2009-10-19
+
+* Initial release.
